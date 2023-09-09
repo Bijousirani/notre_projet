@@ -1,0 +1,212 @@
+
+
+.haut6{
+    display: inline;
+    display: flex;
+    list-style: none;
+    margin-left: 25rem;
+    justify-content: space-between;
+    font-size: 25px;
+    padding-top: 1rem;
+
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+li :hover{
+    display: inline;
+    background-color: rgb(207, 252, 194);
+    color: black;
+    top: -150rem;
+    width: 100%;
+   
+}
+.logt{
+    margin-top: 5rem;
+    margin-left: 25rem;
+    
+
+}
+.logt h2{
+    color: rgb(190, 221, 162);
+    margin-left: 8rem;
+    margin-top: -5rem;
+    font-size: 5rem;
+   
+}
+.logt p{
+    color: white;
+    margin-left: -8rem;
+}
+.part{
+    font-size: 15px;
+}
+.local{
+    background-color: white;
+    width: 10rem;
+    height: 10rem;
+    margin-left: 5rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 30rem;
+    padding-top: 1rem;
+    
+}
+.annexe{
+    margin-top: 2rem;
+    margin-left: 28rem;
+    font-size: 4rem;
+}
+.annexe p{
+    margin-left: -25rem;
+    font-size: 2rem;
+    text-align: center;
+  
+}
+.phone{
+    background-color: white;
+    width: 10rem;
+    height: 10rem;
+    margin-left: 16rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: -11rem;
+    padding-top: 1rem;
+    position: absolute;
+}
+.fax{
+    background-color: white;
+    width: 10rem;
+    height: 10rem;
+    margin-left: 5rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 1rem;
+    padding-top: 1rem;
+   
+}
+.enveloppe{
+    background-color: white;
+    width: 10rem;
+    height: 10rem;
+    margin-left: 16rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    position: absolute;
+}
+.bleue{
+    margin-left: 20rem;
+    margin-top: -29rem;
+    background-color:  #70e2ff;
+    text-align: center;
+    padding-top: -15rem;
+   height: 30rem;
+   width: 50rem;
+ border-radius: 5rem;
+}
+.all{
+    margin-top: -20rem;
+    background-color: black;
+    height: 30rem;
+}
+
+#msg{
+margin-top: 4rem;
+height: 7rem;
+width: 25rem;
+}
+#env{
+    margin-top: -5rem;
+}
+.footer{
+    background-color: rgb(100, 96, 96);
+    margin-top: 10rem;
+    width: 100%;
+    width: 83.3rem;
+    border: 3px solid;
+    color: yellow;
+   
+}
+
+.foot{
+    color: white;
+   margin-left: 5rem;
+   margin-top: 5rem;
+  
+}
+
+.couleur{
+    position: absolute;
+   top: 65rem;
+   left: 0;
+    background-color: rgb(228, 220, 220);
+    width: 100% !important;
+    height: 35rem;
+
+   
+}
+.pied{
+    margin-left: 25rem;
+    padding: 5rem;
+    display: flex;
+}
+.face  {
+    color: rgb(96, 96, 240);
+    font-size: 3rem;
+    background-color: white;
+    border-radius: 1rem;
+    height: 3.2rem;
+}
+.insta{
+    font-size: 3rem;
+    color: #faf6f9;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    height: 3.2rem;
+    margin-left: 1rem;
+    border-radius: 2px;
+}
+.twiter{
+    color: white;
+    font-size: 3rem;
+    margin-left: 1rem;
+    background-color: blue;
+    border-radius: 1rem;
+    height: 3.2rem;
+}
+.youtube{
+    color: red;
+    font-size: 3rem;
+    margin-left: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    height: 3.2rem;
+}
+.tiktok{
+     color: white;
+    font-size: 3rem;
+    margin-left: 1rem;
+    background-color: black;
+    border-radius: 1rem;
+    height: 3.2rem;
+    padding: 2px;
+   
+}
+.send{
+    margin-left: 72rem;
+    position: absolute;
+    margin-top: -2.5rem;
+}
+.formation{
+    border: 2px solid;
+    margin-left: 50rem;
+    margin-top: -6rem;
+    
+}
+.informe{
+    margin-left: 70rem;
+   
+}

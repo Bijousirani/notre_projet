@@ -1,0 +1,174 @@
+
+.haut2{
+    display: inline;
+    display: flex;
+    list-style: none;
+    margin-left: 25rem;
+    justify-content: space-between;
+    font-size: 25px;
+    padding-top: 1rem;
+
+}
+.comme{
+    background-color: white;
+    width: 82.5rem;
+    margin-top: -1rem;
+    padding: 10px;
+    box-shadow: -1px 2px 5px 1px 
+    rgba(224, 221, 221, 0.7); 
+}
+a{
+    color: #ad5830;
+    text-decoration: none;
+}
+li :hover{
+    display: inline;
+    background-color: rgb(189, 150, 100);
+    color: black;
+    top: -150rem;
+    width: 100%;
+   
+}
+div.compte{
+    padding-left: 20%;
+    margin-top: -50px;
+    
+    
+}
+div.non{
+    padding-left: 20%;
+}
+div.Name{
+    color: black;
+    padding: 3px;
+    padding-left: 20%;
+}
+div.nom{
+    text-align: center;
+    
+}
+h2{
+    color:black;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(125, 11, 11);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div.contenu{
+    height: 20%;
+            width: 20%;
+            margin-left: 35%;
+            margin-right: 30%;
+            margin-top: 10%;
+            margin-bottom: 10%;
+            background-color: rgb(233, 227, 218);
+            padding: 8rem;
+            border-radius: 5rem;
+}
+.footer{
+    background-color: rgb(100, 96, 96);
+    margin-top: 20rem;
+    width: 100%;
+    width: 83.3rem;
+    box-shadow: -1px 2px 5px 1px 
+    rgba(184, 126, 1, 0.932); 
+   
+}
+
+.foot{
+    color: white;
+   margin-left: 5rem;
+   margin-top: 5rem;
+  
+}
+
+.couleur{
+    position: absolute;
+   top: 65rem;
+   left: 0;
+    background-color: rgb(228, 220, 220);
+    width: 100% !important;
+    height: 35rem;
+
+   
+}
+.pied{
+    margin-left: 25rem;
+    padding: 5rem;
+    display: flex;
+}
+.title b{
+   margin-left: -25rem;
+}
+.face {
+    color: rgb(96, 96, 240);
+    font-size: 3rem;
+}
+.insta{
+    font-size: 3rem;
+    color: #faf6f9;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    height: 3rem;
+    margin-left: 1rem;
+}
+.twiter{
+    color: blue;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.youtube{
+    color: red;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.tiktok{
+    color: black;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.face  {
+    color: rgb(96, 96, 240);
+    font-size: 3rem;
+}
+.insta{
+    font-size: 3rem;
+    color: #faf6f9;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    height: 3rem;
+    margin-left: 1rem;
+}
+.twiter{
+    color: blue;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.youtube{
+    color: red;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.tiktok{
+    color: black;
+    font-size: 3rem;
+    margin-left: 1rem;
+}
+.send{
+    margin-left: 72rem;
+    position: absolute;
+    margin-top: -2.5rem;
+}
+.formation{
+    border: 2px solid;
+    margin-left: 50rem;
+    margin-top: -6rem;
+    
+}
+.informe{
+    margin-left: 70rem;
+   
+}
